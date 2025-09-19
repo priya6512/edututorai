@@ -1,1 +1,1 @@
-# smartcity
+# EduTutor AI
